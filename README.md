@@ -1,0 +1,3 @@
+# PythonSelenium
+
+CHECK BOXES, BUTTONS, RADIO BUTTONS & TEXT BOX
